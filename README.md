@@ -160,13 +160,7 @@ The project is organized into the following structure to ensure modularity and e
 *   **Mobile App:** Sending push notifications to emergency contacts.
 *   **Advanced AI:** Using Deep Learning (CNN/LSTM) for even higher accuracy.
 
-## 15. Screenshots Section
-*(Add your project images here)*
-| Drowsiness Detected | Active State | Hardware Setup |
-| :---: | :---: | :---: |
-| ![Alert](https://via.placeholder.com/200x150?text=Alert+State) | ![Active](https://via.placeholder.com/200x150?text=Active+State) | ![Hardware](https://via.placeholder.com/200x150?text=Hardware+Setup) |
-
-## 16. License
+## 15. License
 This project is licensed under the **MIT License**.
 
 ---
